@@ -4,7 +4,7 @@ Console.log-ed  though-stream
 
 ## Synopsis
 
-Through stream that logs to console everything that passes through it. 
+Simple through-stream that logs to console everything that passes through it without applying any transformation to the stream.. 
 Use it as a quick debuuging tool by inserting in at a right point of a pipeline to see what is passing through.
 
 ##Description
