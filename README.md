@@ -1,4 +1,4 @@
-Logged though stream
+Console.log-ed  though-stream
 ==
 [![Build Status](https://travis-ci.org/ogt/through-logged.png)](https://travis-ci.org/ogt/through-logged)
 
