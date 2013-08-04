@@ -1,0 +1,7 @@
+/.*
+/*.log
+!/.coverignore
+!/.gitignore
+!/.jshintrc
+!/.travis.yml
+node_modules/
